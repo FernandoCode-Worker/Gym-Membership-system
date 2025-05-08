@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1737471640 source:c:\users\lim\downloads\tds project\main.cpp
+	<iostream>
+	<exception>
+	<stdexcept>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<ctime>
+	"header.hpp"
+
+1737466444 c:\users\lim\downloads\tds project\header.hpp
+	<iostream>
+	<exception>
+	<stdexcept>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
